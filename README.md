@@ -10,7 +10,9 @@
 8. Load [ which file into Intel XDK? ] from working example here: https://github.com/rcwoolley/IoT613_DeviceApp
 9. Go to http://bluemix.net and create a new project [ to be expanded on ]
 
--
+- - - - - - - 
+
+notes ...
 
 https://github.com/rcwoolley/IoT613_DeviceApp
 
