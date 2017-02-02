@@ -8,9 +8,9 @@
 6. configure_edison --setup to setup wifi
 7. run npm install mqtt --save [ from the serial shell? ] on the device before you run it in order to install the MQTT module
 8. Load [ which file into Intel XDK? ] from working example here: https://github.com/rcwoolley/IoT613_DeviceApp
+9. Go to http://bluemix.net and create a new project [ to be expanded on ]
 
-
-9. Go to http://bluemix.net and create a new project
+-
 
 https://github.com/rcwoolley/IoT613_DeviceApp
 
